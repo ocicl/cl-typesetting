@@ -1,0 +1,10 @@
+* cl-typesetting
+
+CL-TYPESETTING is a cross-platform Common Lisp typesetting library for
+all kind of typesetting applications.
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/mbattyani/cl-typesetting.git |
+| commit  | 86eba98                                             |
+| systems | cl-typesetting                                      |
+|---------+-----------------------------------------------------|
