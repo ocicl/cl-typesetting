@@ -8,4 +8,4 @@ all kind of typesetting applications.
 | commit  | 86eba98                                             |
 | systems | cl-typesetting                                      |
 |---------+-----------------------------------------------------|
- 
+  
